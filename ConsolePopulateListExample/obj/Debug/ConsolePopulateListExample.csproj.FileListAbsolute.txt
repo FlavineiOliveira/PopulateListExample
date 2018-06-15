@@ -1,0 +1,7 @@
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\bin\Debug\ConsolePopulateListExample.exe.config
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\bin\Debug\ConsolePopulateListExample.exe
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\bin\Debug\ConsolePopulateListExample.pdb
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\obj\Debug\ConsolePopulateListExample.csprojResolveAssemblyReference.cache
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\obj\Debug\ConsolePopulateListExample.csproj.CoreCompileInputs.cache
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\obj\Debug\ConsolePopulateListExample.exe
+C:\Users\FLAVINEI\Documents\Cursos\Udemy - Xamarin\Exercicios\ConsolePopulateListExample\obj\Debug\ConsolePopulateListExample.pdb
